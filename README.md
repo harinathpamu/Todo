@@ -1,3 +1,9 @@
+### screenshots
+![alt text](https://raw.githubusercontent.com/haripamu/ReactRedux/master/All.png "All")
+![alt text](https://raw.githubusercontent.com/haripamu/ReactRedux/master/Active.png "Active")
+![alt text](https://raw.githubusercontent.com/haripamu/ReactRedux/master/Completed.png "Completed")
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
